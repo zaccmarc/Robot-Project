@@ -35,7 +35,7 @@ Componentes Utilizados:
 
 O diagrama esquemático das conexões elétricas do protótipo é apresentado na Figura X 
 
-![Diagrama]()
+![Diagrama](imagens/image.png)
 
 **Figura X:** Diagrama esquemático do robô seguidor de linha.
 
